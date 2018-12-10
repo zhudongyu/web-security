@@ -7,4 +7,4 @@
 ## 目录
 
 * [web 安全之 XSS](./XSS.md)
-* [web 安全之 密码安全](./堆栈的世界.md)
+* [web 安全之 密码安全](./password.md)
